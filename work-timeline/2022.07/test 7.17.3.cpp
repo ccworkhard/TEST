@@ -5,6 +5,7 @@ int main(){
     size_t size;
     size_t size2;
     string s ="change";
+    string s = "branch1.01";
     cout<<size<<endl;
     cout<<"test"<<endl;
     cout<<"success"<<endl;
